@@ -1,6 +1,6 @@
 # Data Handling & Decision Making (eBay Seller Ratings Case Study)
 
-Two applied analytics case studies focused on **data cleaning, statistical testing, and decision insights**, with a main case study analysing how **eBay seller ratings influence customer purchasing behaviour** using an inferential (regression) approach.
+Applied analytics case studies focused on **data cleaning, statistical testing, and decision insights**, analysing how **eBay seller ratings influence customer purchasing behaviour** using an inferential (regression) approach.
 
 ---
 
