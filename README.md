@@ -6,9 +6,9 @@ Applied analytics case studies focused on **data cleaning, statistical testing, 
 
 ## Key Visual Evidence
 
-![Exponential Relationship](docs/images/fig16_exponential_relationship_scatter_plot.png)
-![Desmos Model (R²)](docs/images/fig20_desmos_exponential_model_overview_r2.png)
-![Cleaning Evidence](docs/images/fig08_missing_values_summary.png)
+![Missing values summary](docs/fig07_missing_values_summary.jpg)
+![Exponential relationship scatter plot](docs/fig18_exponential_relationship_scatter_plot.jpg)
+![Desmos exponential model overview (R²)](docs/fig20_desmos_exponential_model_overview_r2.jpg)
 
 ---
 
