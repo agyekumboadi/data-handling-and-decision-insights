@@ -23,6 +23,7 @@ The analysis supports **H1**, showing a **strong exponential relationship** betw
 - **/report** → The full academic case study report (PDF)
 - **/docs** → Extracted visuals and supporting images referenced in the report
 
+```text
 Recommended structure:
 ├── README.md
 ├── docs/
@@ -31,7 +32,7 @@ Recommended structure:
 └── report/
 ├── README.md
 └── Case_Study_Report_Data_Handling_and_Decision_Making.pdf
-
+```
 ---
 
 ## Dataset Overview
