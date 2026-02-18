@@ -6,9 +6,25 @@ Applied analytics case studies focused on **data cleaning, statistical testing, 
 
 ## Key Visual Evidence
 
-![Missing values summary](docs/fig07_missing_values_summary.jpg)
-![Exponential relationship scatter plot](docs/fig18_exponential_relationship_scatter_plot.jpg)
-![Desmos exponential model overview (R²)](docs/fig20_desmos_exponential_model_overview_r2.jpg)
+<details>
+  <summary><b>Key Visual Evidence (click to expand)</b></summary>
+
+  <br>
+
+  <b>1) Missing value assessment (data quality check)</b><br>
+  <img src="docs/fig07_missing_values_summary.jpg" alt="Missing values summary" width="700"/>
+
+  <br><br>
+
+  <b>2) Exponential relationship observed in the cleaned data</b><br>
+  <img src="docs/fig18_exponential_relationship_scatter_plot.jpg" alt="Exponential relationship scatter plot" width="700"/>
+
+  <br><br>
+
+  <b>3) Desmos exponential regression validation (R² ≈ 0.9913)</b><br>
+  <img src="docs/fig20_desmos_exponential_model_overview_r^2.jpg" alt="Desmos exponential model overview" width="700"/>
+
+</details>
 
 ---
 
